@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.phdcoder.compilerplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.phdcoder.compilerplugin.MyBundle
 
 class MyApplicationService {
 
